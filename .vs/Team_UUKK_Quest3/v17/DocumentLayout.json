@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
               "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
               "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T18:16:10.497Z",
 >>>>>>> e88976d (숲 배경 색약 체험)
@@ -109,9 +109,13 @@
               "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+<<<<<<< HEAD
               "WhenOpened": "2026-04-09T18:14:38.504Z",
 >>>>>>> e88976d (숲 배경 색약 체험)
               "EditorCaption": ""
+=======
+              "WhenOpened": "2026-04-09T18:14:38.504Z"
+>>>>>>> 80e48b4 (인풋 에러 잡음)
             },
             {
               "$type": "Document",
