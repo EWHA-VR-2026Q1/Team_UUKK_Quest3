@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/HW_09/main_entry.unity
+    guid: 8f8dd3a6ac9f54597835a91b6c2ce304
+  - enabled: 1
     path: Assets/HW_09/hw09_mk/mk_hw9.unity
     guid: d6add27850de44b48a4a14ff2e1f3c35
+  - enabled: 1
+    path: Assets/HW_09/hw09_munkyeong/hw09_munkyeong.unity
+    guid: 5b56f715dba9e43e8925bb05640eb869
+  - enabled: 1
+    path: Assets/HW_09/hw09_ym/Space Zone.unity
+    guid: ac031d649525c6746bf4d6a48e8b152b
+  - enabled: 1
+    path: Assets/HW_09/hw09_yr/yr_Scene.unity
+    guid: ca4ea650e337bfb40b847f280b4ca5ee
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3e768e410b8a46978e28aac0b609b45, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: dd2d3e6fe9eab417aa16d35bc237d6c8, type: 2}
