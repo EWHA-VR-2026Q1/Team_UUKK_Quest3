@@ -249,6 +249,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effect: {fileID: 1850146407}
+  leftController: {fileID: 303352346}
 --- !u!65 &178266449
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -441,6 +442,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnPoint: {fileID: 764693179}
+--- !u!4 &303352346 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2961670783314565528, guid: 52119ad596fd6a24eb786f545f4dc4a1, type: 3}
+  m_PrefabInstance: {fileID: 303352343}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &764693175
 GameObject:
   m_ObjectHideFlags: 0
@@ -674,7 +680,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: c8c92bced59574452aef0ae9aafd440f, type: 2}
     - target: {fileID: 7101294177527075355, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 584.3
+      value: 617.8
       objectReference: {fileID: 0}
     - target: {fileID: 7101294177527075355, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -682,7 +688,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7101294177527075355, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 881.2
+      value: 911.7
       objectReference: {fileID: 0}
     - target: {fileID: 7101294177527075355, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_LocalRotation.w
