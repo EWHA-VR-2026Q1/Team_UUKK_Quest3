@@ -228,7 +228,6 @@ GameObject:
   - component: {fileID: 178266451}
   - component: {fileID: 178266450}
   - component: {fileID: 178266449}
-  - component: {fileID: 178266448}
   m_Layer: 0
   m_Name: Screen
   m_TagString: Untagged
@@ -236,20 +235,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &178266448
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 178266447}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1003ff94ff946c14c89abf52d33b115f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  effect: {fileID: 1850146407}
-  leftController: {fileID: 303352346}
 --- !u!65 &178266449
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -442,11 +427,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnPoint: {fileID: 764693179}
---- !u!4 &303352346 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2961670783314565528, guid: 52119ad596fd6a24eb786f545f4dc4a1, type: 3}
-  m_PrefabInstance: {fileID: 303352343}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &764693175
 GameObject:
   m_ObjectHideFlags: 0
@@ -565,6 +545,7 @@ GameObject:
   - component: {fileID: 898293172}
   - component: {fileID: 898293171}
   - component: {fileID: 898293170}
+  - component: {fileID: 898293174}
   m_Layer: 0
   m_Name: Zone
   m_TagString: Untagged
@@ -591,8 +572,8 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.5000001
-  m_Height: 2
+  m_Radius: 20
+  m_Height: 30
   m_Direction: 1
   m_Center: {x: 0.000000059604645, y: 0, z: -0.00000008940697}
 --- !u!23 &898293171
@@ -655,11 +636,24 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 588.42, y: 0.37, z: 932.68}
-  m_LocalScale: {x: 52.1015, y: -0.24617, z: 31.44663}
+  m_LocalScale: {x: 52.1015, y: 0.35093996, z: 31.44663}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &898293174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 898293169}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a2d7e1b3bd70e45a18a5c9dbc4a553, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  effect: {fileID: 1850146407}
 --- !u!1 &904590489
 GameObject:
   m_ObjectHideFlags: 0
@@ -954,11 +948,11 @@ SphereCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 0.5
+  m_Radius: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!54 &1850146409
 Rigidbody:
