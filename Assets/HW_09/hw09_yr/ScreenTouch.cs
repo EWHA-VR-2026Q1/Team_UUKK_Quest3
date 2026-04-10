@@ -4,17 +4,20 @@ public class ScreenTouch : MonoBehaviour
 {
     public ColorBlindEffect effect;
 
+    // 왼손 컨트롤러 Transform
+    public Transform leftController;
+
     void Update()
     {
-        // 왼손 컨트롤러 트리거 클릭
-        bool isClick = OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger, OVRInput.Controller.LTouch);
+        // 왼손 트리거 클릭
+        bool isClick = OVRInput.GetDown(OVRInput.RawButton.LIndexTrigger);
 
         if (isClick)
         {
-            // 컨트롤러 위치 + 방향으로 레이 쏘기
+            // 컨트롤러에서 Ray 발사
             Ray ray = new Ray(
-                OVRInput.GetLocalControllerPosition(OVRInput.Controller.LTouch),
-                OVRInput.GetLocalControllerRotation(OVRInput.Controller.LTouch) * Vector3.forward
+                leftController.position,
+                leftController.forward
             );
 
             RaycastHit hit;
