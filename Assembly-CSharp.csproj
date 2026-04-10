@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <LangVersion>9.0</LangVersion>
@@ -41,369 +41,177 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
-=======
-=======
->>>>>>> origin/kyr_branch
-    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
-    <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <Compile Include="Assets\EX_Events_Controls\Interface_Collision.cs" />
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Move.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_SceneChanger.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\Hover.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Video_Control.cs" />
-    <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Audio_Control.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\LevelManager.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Hand_Least.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Animator.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_LoadScene.cs" />
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Teleport.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Print.cs" />
-    <Compile Include="Assets\D05_4Zones\D05_LoadScene.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_HandInteraction.cs" />
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Grab.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_PC_V2.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Combined_V2.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_XR.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\SimpleTestPlayer.cs" />
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Ray.cs" />
-<<<<<<< HEAD
-    <Compile Include="Assets\HW_09\hw09_ym\Load Scene.cs" />
-    <Compile Include="Assets\D03_ConditionsOfReality\D03_PlayerController.cs" />
-    <Compile Include="Assets\D03_ConditionsOfReality\D03_PlayerController_Physics.cs" />
-    <Compile Include="Assets\D03_ConditionsOfReality\D03_2_DelayedOpen.cs" />
-=======
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\CollectArrow.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Event_OnRay.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Event_OnCollision.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_XR_DirectAccess.cs" />
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_RayForInteraction.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Interface_Ray.cs" />
-    <Compile Include="Assets\EX_Events_Controls\EX_SceneChanger.cs" />
-    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Combined.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Haptic.cs" />
-    <Compile Include="Assets\D11_HandInteraction\EX_Cube.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Event_OnHand_Least.cs" />
->>>>>>> origin/main
-    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Turn.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Interface_Hand_Least.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\PlayerSpawnSetter.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_AnimaitonEvent_LoadScene.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_Outline.cs" />
-    <Compile Include="Assets\EX_Events_Controls\Controller_ChangeColor.cs" />
-=======
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\Hover.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\LevelManager.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\SimpleTestPlayer.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\CollectArrow.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\ColorBlindEffect.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\PlayerSpawnSetter.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\ScreenTouch.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Guidelines.txt" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\info.txt" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\ColorBlindShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
->>>>>>> origin/kyr_branch
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\EX_Events_Controls\EX_OutlineShader.shader" />
-=======
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\MotionBlur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\EdgeDetection.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndGrain.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\GlobalFog.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\SepiaTone.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Bloom.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffects.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\Hover.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BloomOptimized.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ContrastStretch.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Tonemapping.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenOverlay.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\SunShafts.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\TiltShift.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Fisheye.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Quads.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BloomAndFlares.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\BlurOptimized.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\LevelManager.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Antialiasing.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionCurves.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\SimpleTestPlayer.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Vortex.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\CollectArrow.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\NoiseAndScratches.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsHelper.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Triangles.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Blur.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Grayscale.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\DepthOfFieldDeprecated.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\PostEffectsBase.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionRamp.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\DepthOfField.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ContrastEnhance.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ColorCorrectionLookup.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\ColorBlindEffect.cs" />
-    <Compile Include="Assets\HW_09\hw09_mk\Scripts\PlayerSpawnSetter.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\ScreenTouch.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Tonemapper.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Shaders\ProjectorMultiply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\frag_ao.cginc" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlurDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\VignettingShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurves.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\Projectors\Guidelines.txt" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\TwirlEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\info.txt" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Apply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CameraMotionBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionSelective.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\RadialBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SepiaToneEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrection3DLut.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ContrastComposite.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\BlurEffectConeTaps.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\Bokeh34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\FisheyeShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\ColorBlindShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\PrepareSunShaftsBlur.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\EdgeDetectNormals.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Luminance.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
-    <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
->>>>>>> e88976d (숲 배경 색약 체험)
->>>>>>> 62f05f4 (숲 배경 색약 체험)
-  </ItemGroup>
-  <ItemGroup>
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/EdgeDetection.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndGrain.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/GlobalFog.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/SepiaTone.cs" />
     <Compile Include="Assets/EX_Events_Controls/Interface_Collision.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Move.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_SceneChanger.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ImageEffects.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_1_OpenTheDoor.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/Hover.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/BloomOptimized.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ContrastStretch.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Tonemapping.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ScreenOverlay.cs" />
+    <Compile Include="Assets/HW_09/hw09_munkyeong/Sinker.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Video_Control.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs" />
     <Compile Include="Assets/QuickOutline/Scripts/Outline.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/TiltShift.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_5_BallSound.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Fisheye.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Audio_Control.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Quads.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/LevelManager.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Hand_Least.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Animator.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_LoadScene.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Teleport.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Print.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ImageEffectBase.cs" />
     <Compile Include="Assets/D05_4Zones/D05_LoadScene.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_HandInteraction.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Grab.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_PC_V2.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/CameraMotionBlur.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/CreaseShading.cs" />
+    <Compile Include="Assets/HW_09/hw09_munkyeong/Swimmove.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Combined_V2.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientOcclusion.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_XR.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionCurves.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_3_RandomlyOpen.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/SimpleTestPlayer.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Ray.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Vortex.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/CollectArrow.cs" />
     <Compile Include="Assets/EX_Events_Controls/Event_OnRay.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/NoiseAndScratches.cs" />
     <Compile Include="Assets/EX_Events_Controls/Event_OnCollision.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_XR_DirectAccess.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_RayForInteraction.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ScreenSpaceAmbientObscurance.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_PlayerController.cs" />
     <Compile Include="Assets/EX_Events_Controls/Interface_Ray.cs" />
     <Compile Include="Assets/EX_Events_Controls/EX_SceneChanger.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsHelper.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Triangles.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Combined.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Blur.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Haptic.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Grayscale.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/DepthOfFieldDeprecated.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_PlayerController_Physics.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionRamp.cs" />
     <Compile Include="Assets/D03_ConditionsOfReality/D03_2_DelayedOpen.cs" />
     <Compile Include="Assets/D11_HandInteraction/EX_Cube.cs" />
     <Compile Include="Assets/EX_Events_Controls/Event_OnHand_Least.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ContrastEnhance.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/ColorCorrectionLookup.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Turn.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/ColorBlindEffect.cs" />
     <Compile Include="Assets/EX_Events_Controls/Interface_Hand_Least.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/PlayerSpawnSetter.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/ScreenTouch.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_AnimaitonEvent_LoadScene.cs" />
+    <Compile Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Scripts/Twirl.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Outline.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_ChangeColor.cs" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/Tonemapper.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/GlobalFog.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/VortexEffect.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrain.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/Projectors/Shaders/ProjectorLight.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurves.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/Projectors/Guidelines.txt" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MultiPassHollywoodFlares.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/SSAOShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionCurvesSimple.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/Blend.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/SSAA.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/SunShaftsComposite.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ConvertDepth.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/TwirlEffect.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/info.txt" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Apply.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ToonShading/Shaders/ToonLitOutline.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Adaptation.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/LensFlareCreate.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ScreenSpaceAmbientObscurance.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/CreaseApply.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA3Console.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionSelective.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/RadialBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/VignetteShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/MotionBlurClear.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/GlassRefraction/Shaders/GlassStainedBumpDistort.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/SepiaToneEffect.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrection3DLut.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/SimpleClear.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ContrastComposite.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/MinMaxReduction.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/BlurEffectConeTaps.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/Bokeh34.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ColorCorrectionEffect.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/FisheyeShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendOneOne.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ToonShading/Shaders/ToonLit.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBloom.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlendForBloom.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfField34.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldDX11.shader" />
+    <None Include="Assets/HW_09/hw09_yr/ColorBlindShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularSmooth.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/SeparableBlurPlus.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/MotionBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/MobileBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BrightPassFilter2.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/TessellationShaders/Shaders/BumpedSpecularDisplacement.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/PrepareSunShaftsBlur.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ShowAlphaChannel.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/GrayscaleEffect.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/ChromaticAberrationShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/NoiseAndGrainDX11.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/SeparableWeightedBlurDof34.shader" />
+    <None Include="Assets/Akduman/ToonTastic - Electronic Devices/ThirdPartyNotices.txt" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/BlendModesOverlay.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ToonShading/Shaders/ToonBasicOutline.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/DepthOfFieldScatter.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/EdgeDetectNormals.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderRGB.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAA2.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/NoiseEffectShaderYUV.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/Contrast Stretch/Luminance.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_BloomAndFlares/BlurAndFlares.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/NFAA.shader" />
+    <None Include="Assets/Akduman/ToonTastic - Electronic Devices/README.txt" />
     <None Include="Assets/EX_Events_Controls/EX_OutlineShader.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset2.shader" />
+    <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_DepthOfField/TiltShiftHdrLensBlur.shader" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
@@ -658,22 +466,6 @@
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/VisionOSPlayer/UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-      <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Android.Types">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.62f3/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -1060,220 +852,166 @@
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Settings">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.Settings.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Settings.dll</HintPath>
     </Reference>
     <Reference Include="meta.xr.mrutilitykit.editor">
-      <HintPath>Library\ScriptAssemblies\meta.xr.mrutilitykit.editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/meta.xr.mrutilitykit.editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Tags">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.Tags.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Tags.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UserInterface">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.UserInterface.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.UserInterface.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry.Runtime">
-      <HintPath>Library\ScriptAssemblies\VoiceSDK.Telemetry.Runtime.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Telemetry.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Composer.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.Wit.Composer.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Composer.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.BuildingBlocks.AIBlocks">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.BuildingBlocks.AIBlocks.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.BuildingBlocks.AIBlocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Settings.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Settings.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.Settings.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform.Editor">
-      <HintPath>Library\ScriptAssemblies\Oculus.Platform.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Platform.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Editor">
-      <HintPath>Library\ScriptAssemblies\Oculus.Interaction.OVR.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.OVR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.DepthAPI.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.DepthAPI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Dictation.Runtime">
-      <HintPath>Library\ScriptAssemblies\VoiceSDK.Dictation.Runtime.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Dictation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MultiplayerBlocks.Shared.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.MultiplayerBlocks.Shared.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.MultiplayerBlocks.Shared.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Telemetry">
-      <HintPath>Library\ScriptAssemblies\VoiceSDK.Telemetry.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Telemetry.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.UnityXR">
-      <HintPath>Library\ScriptAssemblies\Oculus.Interaction.UnityXR.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.UnityXR.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR.Editor">
-      <HintPath>Library\ScriptAssemblies\Oculus.VR.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.VR.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi">
-      <HintPath>Library\ScriptAssemblies\Meta.WitAi.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.UPST.Notifications">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.UPST.Notifications.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.UPST.Notifications.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Audio.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Audio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.TTS.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.WitAi.TTS.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.TTS.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.OVR.Samples">
-      <HintPath>Library\ScriptAssemblies\Oculus.Interaction.OVR.Samples.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.EditorCoroutine">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.EditorCoroutine.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.EditorCoroutine.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.BuildingBlocks.DepthAPI">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.BuildingBlocks.DepthAPI.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.DepthAPI.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Platform">
-      <HintPath>Library\ScriptAssemblies\Oculus.Platform.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Platform.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>Library\ScriptAssemblies\Meta.Voice.Hub.Runtime.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.Hub.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger.Interface">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.ForUI.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProBuilder.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.ToolingSupport">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.ToolingSupport.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.ToolingSupport.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.EnvironmentDepth.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.EnvironmentDepth.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.EnvironmentDepth.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.VoiceSDK.Mic.WebGL">
-      <HintPath>Library\ScriptAssemblies\Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Guide.About">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.Guide.About.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Guide.About.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.ImmersiveDebugger">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.ImmersiveDebugger.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.ImmersiveDebugger.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Notifications">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.Notifications.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Notifications.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Audio">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Audio.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Audio.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAI.Lib.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.WitAI.Lib.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAI.Lib.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Voice.Opus">
-      <HintPath>Library\ScriptAssemblies\Meta.Voice.Opus.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.Opus.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Editor.UnityXR">
-      <HintPath>Library\ScriptAssemblies\Oculus.Interaction.Editor.UnityXR.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Editor.UnityXR.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.VR">
-      <HintPath>Library\ScriptAssemblies\Oculus.VR.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.VR.dll</HintPath>
     </Reference>
     <Reference Include="AssistantCoreSDKRuntime">
-      <HintPath>Library\ScriptAssemblies\AssistantCoreSDKRuntime.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/AssistantCoreSDKRuntime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
@@ -1287,27 +1025,12 @@
     <Reference Include="Meta.XR.EnvironmentDepth">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.EnvironmentDepth.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.Editor.Settings">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Settings.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="AssistantVoiceCommandCommon">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/AssistantVoiceCommandCommon.dll</HintPath>
     </Reference>
     <Reference Include="Unity.AI.Navigation">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.AI.Navigation.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="meta.xr.mrutilitykit.editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/meta.xr.mrutilitykit.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.Editor.Tags">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Tags.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.XR.BuildingBlocks.AIBlocks">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.AIBlocks.dll</HintPath>
     </Reference>
@@ -1317,26 +1040,14 @@
     <Reference Include="VoiceSDK.Editor.Composer">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Editor.Composer.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="Oculus.Interaction.Samples.Editor">
-      <HintPath>Library\ScriptAssemblies\Oculus.Interaction.Samples.Editor.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.XR.Editor.UserInterface">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.UserInterface.dll</HintPath>
->>>>>>> origin/main
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.Editor.dll</HintPath>
     </Reference>
     <Reference Include="MetaXRSimulatorCore.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/MetaXRSimulatorCore.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="Unity.ProBuilder.AddOns.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.ProBuilder.AddOns.Editor.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="VoiceSDK.Telemetry.Runtime">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Telemetry.Runtime.dll</HintPath>
->>>>>>> origin/main
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
@@ -1344,15 +1055,6 @@
     <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Oculus.Interaction.Samples.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.Voice.NLayer">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.NLayer.dll</HintPath>
     </Reference>
@@ -1368,51 +1070,15 @@
     <Reference Include="Unity.XR.CoreUtils">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.Wit.Dictation">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Dictation.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.XR.OpenXR">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.Wit.Composer.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Composer.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.OpenXR.Features.MetaQuestSupport">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.MetaQuestSupport.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.Performance.Profile-Analyzer.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.Performance.Profile-Analyzer.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.Editor.BuildingBlocks.AIBlocks">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.BuildingBlocks.AIBlocks.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.XR.Management.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Settings.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.Settings.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="AssistantVoiceCommandCommon.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/AssistantVoiceCommandCommon.Editor.dll</HintPath>
     </Reference>
@@ -1428,35 +1094,14 @@
     <Reference Include="Oculus.Interaction.OVR">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.OVR.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Oculus.Platform.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Platform.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.XR.CoreUtils.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.CoreUtils.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.XR.Editor.Id">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Id.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>Library\ScriptAssemblies\Meta.VoiceSDK.Mic.Other.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Oculus.Interaction.OVR.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.OVR.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.BuildingBlocks.DepthAPI.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.DepthAPI.Editor.dll</HintPath>
->>>>>>> origin/main
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.MetaWand.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.MetaWand.Editor.dll</HintPath>
@@ -1464,27 +1109,9 @@
     <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="VoiceSDK.Dictation.Runtime">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Dictation.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.MultiplayerBlocks.Shared.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.MultiplayerBlocks.Shared.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="VoiceSDK.Telemetry">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Telemetry.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Oculus.Interaction">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.dll</HintPath>
     </Reference>
@@ -1494,62 +1121,26 @@
     <Reference Include="Meta.XR.BuildingBlocks">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="Meta.Voice.VSDKHub.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.Voice.VSDKHub.Editor.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.VoiceSDK.Mic.Other">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll</HintPath>
-    </Reference>
-    <Reference Include="Oculus.VR.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.VR.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.WitAi">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.Editor.UPST.Notifications">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.UPST.Notifications.dll</HintPath>
->>>>>>> origin/main
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.VSDKHub.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.WitAi.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.Voice.VSDKHub.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.VSDKHub.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Oculus.Haptics">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Haptics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.EditorCoroutines.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.EditorCoroutines.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.Audio.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Audio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Oculus.Interaction.UnityXR">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.UnityXR.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="VoiceSDK.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="meta.xr.mrutilitykit">
-      <HintPath>Library\ScriptAssemblies\meta.xr.mrutilitykit.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.WitAi.TTS.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.TTS.Editor.dll</HintPath>
->>>>>>> origin/main
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/meta.xr.mrutilitykit.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
@@ -1557,48 +1148,18 @@
     <Reference Include="Unity.VisualScripting.Shared.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Shared.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="meta.xr.mrutilitykit">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/meta.xr.mrutilitykit.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.VisualStudio.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-    <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.XR.Editor.EditorCoroutine">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.EditorCoroutine.dll</HintPath>
->>>>>>> origin/main
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Core.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Oculus.Interaction.OVR.Samples">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
->>>>>>> origin/main
+    <Reference Include="Unity.VisualScripting.Core.Editor">
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
@@ -1611,27 +1172,9 @@
     <Reference Include="Meta.WitAi.Lib">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.Lib.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.BuildingBlocks.DepthAPI">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.DepthAPI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.Flow.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.Flow.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.Voice.Hub.Runtime">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.Hub.Runtime.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.XR.MultiplayerBlocks.Shared">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.MultiplayerBlocks.Shared.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.ImmersiveDebugger.Interface">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.ImmersiveDebugger.Interface.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.XR.MultiplayerBlocks.NGO.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.MultiplayerBlocks.NGO.Editor.dll</HintPath>
     </Reference>
@@ -1644,51 +1187,21 @@
     <Reference Include="Unity.InputSystem">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.InputSystem.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Unity.InputSystem.ForUI">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.InputSystem.ForUI.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.Editor.ToolingSupport">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.ToolingSupport.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.WitAi.TTS">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAi.TTS.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-    <Reference Include="Meta.XR.Editor.Reflection">
-      <HintPath>Library\ScriptAssemblies\Meta.XR.Editor.Reflection.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.XR.EnvironmentDepth.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.EnvironmentDepth.Editor.dll</HintPath>
->>>>>>> origin/main
-    </Reference>
-    <Reference Include="Meta.Wit.Composer">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Composer.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.VoiceSDK.Mic.WebGL">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.WebGL.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.Reflection">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Reflection.dll</HintPath>
     </Reference>
->>>>>>> origin/main
+    <Reference Include="Meta.Wit.Composer">
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Composer.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.SettingsProvider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Oculus.Interaction.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Oculus.Platform">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Platform.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.XR.OpenXR.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Editor.dll</HintPath>
     </Reference>
@@ -1701,117 +1214,44 @@
     <Reference Include="Unity.AI.Navigation.Updater">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.AI.Navigation.Updater.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.ImmersiveDebugger">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.ImmersiveDebugger.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.XR.Editor.Notifications">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Notifications.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.Net.endel.nativewebsocket">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Net.endel.nativewebsocket.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.Editor.Guide.About">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.Guide.About.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Unity.VisualScripting.State.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.XR.Audio">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Audio.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
     <Reference Include="Meta.XR.BuildingBlocks.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.BuildingBlocks.Editor.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
-=======
-    <Reference Include="Meta.WitAI.Lib.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.WitAI.Lib.Editor.dll</HintPath>
+    <Reference Include="Oculus.Interaction.Samples">
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.dll</HintPath>
+    </Reference>
+    <Reference Include="Oculus.Interaction.Samples.Editor.UISet">
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.Editor.UISet.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
->>>>>>> origin/main
-    <Reference Include="Oculus.Interaction.Samples">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-=======
     <Reference Include="Unity.AI.Navigation.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.dll</HintPath>
-    </Reference>
->>>>>>> origin/main
-    <Reference Include="Oculus.Interaction.Samples.Editor.UISet">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Samples.Editor.UISet.dll</HintPath>
-    </Reference>
-<<<<<<< HEAD
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
-    <Reference Include="Unity.AI.Navigation.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.AI.Navigation.Editor.dll</HintPath>
-      <Private>False</Private>
-=======
-    <Reference Include="Meta.Voice.Opus">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Voice.Opus.dll</HintPath>
-    </Reference>
-    <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Runtime.Composer.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.VisualScripting.State">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.VisualScripting.State.dll</HintPath>
-    </Reference>
-    <Reference Include="Oculus.Haptics.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Haptics.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Oculus.Interaction.Editor.UnityXR">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Interaction.Editor.UnityXR.dll</HintPath>
-    </Reference>
-    <Reference Include="Meta.Wit.Dictation.Editor">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Dictation.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Oculus.VR">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.VR.dll</HintPath>
->>>>>>> origin/main
     </Reference>
     <Reference Include="Unity.XR.OpenXR.Features.RuntimeDebugger.Editor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll</HintPath>
     </Reference>
     <Reference Include="VoiceSDK.Runtime.Composer">
-      <HintPath>Library\ScriptAssemblies\VoiceSDK.Runtime.Composer.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Runtime.Composer.dll</HintPath>
     </Reference>
     <Reference Include="Meta.XR.Editor.TelemetryUI">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.XR.Editor.TelemetryUI.dll</HintPath>
     </Reference>
-<<<<<<< HEAD
     <Reference Include="Oculus.Haptics.Editor">
-      <HintPath>Library\ScriptAssemblies\Oculus.Haptics.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Oculus.Haptics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Meta.Wit.Dictation.Editor">
-      <HintPath>Library\ScriptAssemblies\Meta.Wit.Dictation.Editor.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/Meta.Wit.Dictation.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="VoiceSDK.Runtime">
-      <HintPath>Library\ScriptAssemblies\VoiceSDK.Runtime.dll</HintPath>
-      <Private>False</Private>
-=======
     <Reference Include="VoiceSDK.Runtime">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/VoiceSDK.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="AssistantCoreSDKRuntime">
-      <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/AssistantCoreSDKRuntime.dll</HintPath>
->>>>>>> origin/main
     </Reference>
     <Reference Include="AssistantCoreSDKEditor">
       <HintPath>/Users/minkyoung_lee/Desktop/dev/Team_UUKK_Quest3/Library/ScriptAssemblies/AssistantCoreSDKEditor.dll</HintPath>
