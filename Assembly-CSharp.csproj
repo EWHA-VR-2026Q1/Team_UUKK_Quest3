@@ -143,6 +143,7 @@
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\PlayerSpawnSetter.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_AnimaitonEvent_LoadScene.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
+    <Compile Include="Assets\HW_09\hw09_yr\ColorBlindZone.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_Outline.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_ChangeColor.cs" />
   </ItemGroup>
