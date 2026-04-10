@@ -48,9 +48,11 @@
     <Compile Include="Assets/EX_Events_Controls/Interface_Collision.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Move.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_SceneChanger.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_1_OpenTheDoor.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/Hover.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Video_Control.cs" />
     <Compile Include="Assets/QuickOutline/Scripts/Outline.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_5_BallSound.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Audio_Control.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/LevelManager.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Hand_Least.cs" />
@@ -64,6 +66,7 @@
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_PC_V2.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Combined_V2.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_XR.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_3_RandomlyOpen.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/SimpleTestPlayer.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Ray.cs" />
     <Compile Include="Assets/HW_09/hw09_mk/Scripts/CollectArrow.cs" />
@@ -71,10 +74,13 @@
     <Compile Include="Assets/EX_Events_Controls/Event_OnCollision.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_InputSystem_XR_DirectAccess.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_RayForInteraction.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_PlayerController.cs" />
     <Compile Include="Assets/EX_Events_Controls/Interface_Ray.cs" />
     <Compile Include="Assets/EX_Events_Controls/EX_SceneChanger.cs" />
     <Compile Include="Assets/EX_CharacterController/EX_OVRInput_Combined.cs" />
     <Compile Include="Assets/EX_Events_Controls/Controller_Haptic.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_PlayerController_Physics.cs" />
+    <Compile Include="Assets/D03_ConditionsOfReality/D03_2_DelayedOpen.cs" />
     <Compile Include="Assets/D11_HandInteraction/EX_Cube.cs" />
     <Compile Include="Assets/EX_Events_Controls/Event_OnHand_Least.cs" />
     <Compile Include="Assets/EX_OVRInput/EX_OVRInput_Turn.cs" />
