@@ -60,11 +60,47 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f3\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\EX_Events_Controls\Interface_Collision.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Move.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_SceneChanger.cs" />
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\Hover.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Video_Control.cs" />
+    <Compile Include="Assets\QuickOutline\Scripts\Outline.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Audio_Control.cs" />
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\LevelManager.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Hand_Least.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Animator.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_LoadScene.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Teleport.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Print.cs" />
+    <Compile Include="Assets\D05_4Zones\D05_LoadScene.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_HandInteraction.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Grab.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_PC_V2.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Combined_V2.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_XR.cs" />
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\SimpleTestPlayer.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Ray.cs" />
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\CollectArrow.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Event_OnRay.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Event_OnCollision.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_InputSystem_XR_DirectAccess.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_RayForInteraction.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Interface_Ray.cs" />
+    <Compile Include="Assets\EX_Events_Controls\EX_SceneChanger.cs" />
+    <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Combined.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Haptic.cs" />
+    <Compile Include="Assets\D11_HandInteraction\EX_Cube.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Event_OnHand_Least.cs" />
+    <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Turn.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Interface_Hand_Least.cs" />
     <Compile Include="Assets\HW_09\hw09_mk\Scripts\PlayerSpawnSetter.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_AnimaitonEvent_LoadScene.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_Outline.cs" />
+    <Compile Include="Assets\EX_Events_Controls\Controller_ChangeColor.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\EX_Events_Controls\EX_OutlineShader.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1445,6 +1481,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{18BC2E3E-3D7E-66FF-70D9-B77B0FEFA5D9}</Project>
+      <Name>Assembly-CSharp-firstpass</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

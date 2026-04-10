@@ -12,7 +12,7 @@ public class PlayerSpawnSetter : MonoBehaviour
         CharacterController cc = GetComponent<CharacterController>();
 
         cc.enabled = false;
-        transform.position = spawnPoint.position;
+        transform.position = spawnPoint.position + Vector3.up * 0.2f;
         transform.rotation = spawnPoint.rotation;
         cc.enabled = true;
     }
