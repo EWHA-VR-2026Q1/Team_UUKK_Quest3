@@ -132,7 +132,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 146207389894510492, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: SceneName
-      value: mk_hw9
+      value: acrophobia
       objectReference: {fileID: 0}
     - target: {fileID: 1016058374412578677, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -490,7 +490,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 146207389894510492, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: SceneName
-      value: Space Zone
+      value: space
       objectReference: {fileID: 0}
     - target: {fileID: 1016058374412578677, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -567,7 +567,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 146207389894510492, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: SceneName
-      value: hw09_munkyeong
+      value: seaphobia
       objectReference: {fileID: 0}
     - target: {fileID: 1016058374412578677, guid: ad9eea9e5b7f4d44b8f292a9fdf2846f, type: 3}
       propertyPath: m_Materials.Array.data[0]
