@@ -788,6 +788,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player_OVRInput_Parts
       objectReference: {fileID: 0}
+    - target: {fileID: 6405612822696510361, guid: 52119ad596fd6a24eb786f545f4dc4a1, type: 3}
+      propertyPath: _enableDynamicResolution
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8401344796474442503, guid: 52119ad596fd6a24eb786f545f4dc4a1, type: 3}
       propertyPath: gravity
       value: -2
