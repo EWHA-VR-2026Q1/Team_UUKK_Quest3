@@ -92,6 +92,7 @@
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_LoadScene.cs" />
     <Compile Include="Assets\EX_OVRInput\EX_OVRInput_Teleport.cs" />
+    <Compile Include="Assets\HW_09\hw09_yr\ScreenZoneAuto.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_Print.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ImageEffectBase.cs" />
     <Compile Include="Assets\D05_4Zones\D05_LoadScene.cs" />
@@ -143,7 +144,6 @@
     <Compile Include="Assets\EX_Events_Controls\Controller_AnimaitonEvent_LoadScene.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\Twirl.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_Outline.cs" />
-    <Compile Include="Assets\HW_09\hw09_yr\ScreenInteractable.cs" />
     <Compile Include="Assets\EX_Events_Controls\Controller_ChangeColor.cs" />
   </ItemGroup>
   <ItemGroup>
