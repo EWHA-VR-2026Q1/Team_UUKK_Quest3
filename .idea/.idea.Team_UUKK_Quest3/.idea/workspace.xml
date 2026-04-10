@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a8eadeb-e2a8-45db-ad17-47a1a3209fee" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Team_UUKK_Quest3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team_UUKK_Quest3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HW_09/hw09_munkyeong/SampleScene - MK.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HW_09/hw09_ym/Load Scene.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/HW_09/hw09_ym/Load Scene.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/HW_09/hw09_mk/mk_hw9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/HW_09/hw09_mk/mk_hw9.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/OculusProjectConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Android/AndroidManifest.xml.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/ImmersiveDebuggerSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/ImmersiveDebuggerSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/InputActions.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/InputActions.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MetaXRAcousticMaterialMapping.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MetaXRAcousticMaterialMapping.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MetaXRAcousticSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MetaXRAcousticSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/MetaXRAudioSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/MetaXRAudioSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRBuildConfig.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OVRPlatformToolSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OVRPlatformToolSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/OculusRuntimeSettings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Team_UUKK_Quest3.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Team_UUKK_Quest3.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +31,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.probuilder@5.2.4/Editor/EditorCore/MeshSelection.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -95,6 +108,7 @@
       <workItem from="1775801624953" duration="1000" />
       <workItem from="1775805104159" duration="3000" />
       <workItem from="1775805410520" duration="62000" />
+      <workItem from="1775807160013" duration="151000" />
     </task>
     <servers />
   </component>

@@ -105,8 +105,8 @@
     <None Include="Assets/Standard Assets/Characters/RollerBall/RollerBallGuidelines.txt" />
     <None Include="Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader" />
     <None Include="Assets/Standard Assets/Characters/FirstPersonCharacter/FirstPersonCharacterGuidelines.txt" />
-    <None Include="Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader" />
     <None Include="Assets/Plugins/Android/AndroidManifest.xml" />
+    <None Include="Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader" />
     <None Include="Assets/Standard Assets/Characters/ThirdPersonCharacter/ThirdPersonCharacterGuidelines.txt" />
     <Reference Include="UnityEngine">
       <HintPath>/Applications/Unity/Hub/Editor/2022.3.62f3/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
