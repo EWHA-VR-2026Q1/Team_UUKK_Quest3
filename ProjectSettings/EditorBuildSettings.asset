@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/HW_09/hw09_ym/space.unity
     guid: ac031d649525c6746bf4d6a48e8b152b
   - enabled: 1
-    path: Assets/HW_09/hw09_yr/yr_Scene.unity
+    path: Assets/HW_09/hw09_yr/colorblind.unity
     guid: ca4ea650e337bfb40b847f280b4ca5ee
   - enabled: 1
     path: Assets/HW_09/hw09_munkyeong/seaphobia.unity
