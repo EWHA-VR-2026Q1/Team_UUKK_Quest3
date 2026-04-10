@@ -207,11 +207,7 @@ MonoBehaviour:
   Marker: {fileID: 1884649030752201358}
   TeleportLayer:
     serializedVersion: 2
-<<<<<<< HEAD
     m_Bits: 0
-=======
-    m_Bits: 8
->>>>>>> origin/main
   resolution: 30
   velocity: 8
   timestep: 0.08
@@ -246,11 +242,7 @@ MonoBehaviour:
   grabRadius: 0.15
   GrabLayer:
     serializedVersion: 2
-<<<<<<< HEAD
     m_Bits: 0
-=======
-    m_Bits: 64
->>>>>>> origin/main
 --- !u!1 &1647516987019087955
 GameObject:
   m_ObjectHideFlags: 0
