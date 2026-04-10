@@ -1,5 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 950420809ec4c294c98503ec3c3ad007
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 74951662f8faf444884169858ce02c12
+=======
+guid: 6086113b9c2916a4cac2be46cb0ac48c
+>>>>>>> bf71998 (인풋 에러 잡음)
+=======
+guid: 6086113b9c2916a4cac2be46cb0ac48c
+>>>>>>> origin/kyr_branch
+>>>>>>> origin/main
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
