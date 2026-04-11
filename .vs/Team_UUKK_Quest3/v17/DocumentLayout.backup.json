@@ -1,56 +1,45 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\2026-1\\Team_UUKK_Quest3\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{63867741-84E8-A4D1-FA67-97546AEB58BE}|Assembly-CSharp.csproj|c:\\2026-1\\team_uukk_quest3\\assets\\hw_09\\hw09_mk\\scripts\\playerspawnsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63867741-84E8-A4D1-FA67-97546AEB58BE}|Assembly-CSharp.csproj|solutionrelative:assets\\hw_09\\hw09_mk\\scripts\\playerspawnsetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\assets\\hw_09\\hw09_mk\\scripts\\ex_ovrinput_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\hw_09\\hw09_mk\\scripts\\ex_ovrinput_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-=======
->>>>>>> origin/kyr_branch
   "WorkspaceRootPath": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\",
   "Documents": [
+    {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\ScreenTouch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-<<<<<<< HEAD
->>>>>>> e88976d (숲 배경 색약 체험)
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
->>>>>>> origin/kyr_branch
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> e1973e2 (스크린 존)
     }
   ],
   "DocumentGroupContainers": [
@@ -60,163 +49,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
-<<<<<<< HEAD
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerSpawnSetter.cs",
-              "DocumentMoniker": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
-              "ToolTip": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T05:35:14.079Z",
-=======
-=======
->>>>>>> origin/kyr_branch
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScreenTouch.cs",
-              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
-              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T18:16:10.497Z",
 <<<<<<< HEAD
->>>>>>> e88976d (숲 배경 색약 체험)
+              "Title": "MetaXRAcousticMaterialMappingEditor.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.audio@85.0.0\\editor\\MetaXRAcousticMaterialMappingEditor.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:28:56.576Z",
 =======
->>>>>>> origin/kyr_branch
+              "Title": "ScreenZoneAuto.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs",
+              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs",
+              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ScreenZoneAuto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T16:07:23.4Z",
+>>>>>>> e1973e2 (스크린 존)
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
 <<<<<<< HEAD
-<<<<<<< HEAD
-              "Title": "OVRCameraRig.cs",
-              "DocumentMoniker": "C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
-              "ToolTip": "C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAkwNwAAABfAAAAAAAAAA==",
+              "Title": "ScreenTouch.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
+              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
+              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ScreenTouch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T05:06:21.028Z",
-=======
-=======
->>>>>>> origin/kyr_branch
-              "Title": "ColorBlindShader.shader",
-              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader",
-              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ColorBlindShader.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "WhenOpened": "2026-04-09T18:14:38.504Z",
->>>>>>> e88976d (숲 배경 색약 체험)
+              "WhenOpened": "2026-04-10T10:27:56.022Z",
               "EditorCaption": ""
-=======
-              "WhenOpened": "2026-04-09T18:14:38.504Z"
->>>>>>> 80e48b4 (인풋 에러 잡음)
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Swimmove.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs",
+              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs",
+              "RelativeToolTip": "Assets\\HW_09\\hw09_munkyeong\\Swimmove.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:27:54.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerSpawnSetter.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
+              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
+              "RelativeToolTip": "Assets\\HW_09\\hw09_mk\\Scripts\\PlayerSpawnSetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:27:54.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OVRCameraRig.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Scripts\\OVRCameraRig.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAkwNwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T10:27:54.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EX_OVRInput_Move.cs",
               "DocumentMoniker": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
               "ToolTip": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\Scripts\\EX_OVRInput_Move.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T05:01:14.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "EX_OVRInput_Move.cs",
               "DocumentMoniker": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
               "ToolTip": "C:\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\2026-1\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_mk\\EX_OVRInput\\EX_OVRInput_Move.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-10T03:15:51.29Z"
-=======
-=======
-              "WhenOpened": "2026-04-09T18:14:38.504Z"
             },
             {
               "$type": "Document",
->>>>>>> origin/kyr_branch
-              "DocumentIndex": 2,
-              "Title": "ColorBlindEffect.cs",
-              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs",
-              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ColorBlindEffect.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T18:02:35.08Z"
-<<<<<<< HEAD
->>>>>>> e88976d (숲 배경 색약 체험)
-=======
->>>>>>> origin/kyr_branch
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-<<<<<<< HEAD
-<<<<<<< HEAD
-              "Title": "OVRConfigurationTaskUpdaterSummary.cs",
-              "DocumentMoniker": "C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
-              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
-              "ToolTip": "C:\\2026-1\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
-              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
-              "ViewState": "AgIAAMwAAAAAAAAAAAAiwOAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T03:15:50.707Z",
-              "EditorCaption": ""
-=======
-=======
->>>>>>> origin/kyr_branch
-              "Title": "Destructible Objects.txt",
-              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt",
-              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt",
-              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt",
-              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\Diabolical Games\\Destructible Objects\\Destructible Objects.txt",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2026-04-09T17:49:19.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OVRConfigurationTaskUpdaterSummary.cs",
               "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
               "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.sdk.core@85.0.0\\Editor\\OVRProjectSetup\\Tasks\\Processors\\OVRConfigurationTaskUpdaterSummary.cs",
-              "ViewState": "AQIAAMwAAAAAAAAAAAAiwOAAAAAqAAAA",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAiwOAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T17:49:17.478Z"
-<<<<<<< HEAD
->>>>>>> e88976d (숲 배경 색약 체험)
+              "WhenOpened": "2026-04-10T10:27:54.918Z"
 =======
->>>>>>> origin/kyr_branch
+              "Title": "ScreenInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs",
+              "ToolTip": "C:\\Users\\swu\\Documents\\Team_UUKK_Quest3\\Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs",
+              "RelativeToolTip": "Assets\\HW_09\\hw09_yr\\ScreenInteractable.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T15:48:41.521Z",
+              "EditorCaption": ""
+>>>>>>> e1973e2 (스크린 존)
             }
           ]
         }

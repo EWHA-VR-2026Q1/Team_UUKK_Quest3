@@ -102,6 +102,7 @@
     <Compile Include="Assets\EX_CharacterController\EX_InputSystem_PC_V2.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CameraMotionBlur.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\CreaseShading.cs" />
+    <Compile Include="Assets\HW_09\hw09_yr\FogIncrease.cs" />
     <Compile Include="Assets\HW_09\hw09_munkyeong\Swimmove.cs" />
     <Compile Include="Assets\EX_CharacterController\EX_OVRInput_Combined_V2.cs" />
     <Compile Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
@@ -166,6 +167,7 @@
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
+    <None Include="Assets\HW_09\hw09_yr\CS - Signs Free\Standard 2 Sided.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\SSAA.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\SunShaftsComposite.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ConvertDepth.shader" />
@@ -213,6 +215,7 @@
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\GrayscaleEffect.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
+    <None Include="Assets\HW_09\hw09_yr\CS - Signs Free\Readme.txt" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
     <None Include="Assets\HW_09\hw09_yr\Nature\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
     <None Include="Assets\Akduman\ToonTastic - Electronic Devices\ThirdPartyNotices.txt" />
