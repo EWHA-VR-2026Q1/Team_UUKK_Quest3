@@ -139,6 +139,7 @@
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/Projectors/Shaders/ProjectorMultiply.shader" />
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/DLAA.shader" />
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/frag_ao.cginc" />
+    <None Include="Assets/HW_09/ReadMe.txt" />
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/_Antialiasing/FXAAPreset3.shader" />
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/CameraMotionBlurDX11.shader" />
     <None Include="Assets/HW_09/hw09_yr/Nature/Standard Assets/Effects/ImageEffects/Shaders/VignettingShader.shader" />
